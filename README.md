@@ -8,3 +8,5 @@ Anything that isn't done in the terminal cannot influence any bit of this file f
 Adding more notes just in case. And some more...
 
 One more for good measure!
+
+I'm doing another one because I forgot. Check 'Git status'.
